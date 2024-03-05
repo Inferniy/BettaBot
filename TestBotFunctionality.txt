@@ -1,0 +1,9 @@
+0:forward
+1000:backward
+1000:calibrate
+1000:center
+1000:speed 20
+1000:speed 100
+1000:left 20
+1000:right 20
+1000:stop

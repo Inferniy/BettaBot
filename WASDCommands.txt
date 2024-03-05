@@ -1,0 +1,11 @@
+w:forward
+a:left higher
+s:backward
+d:right higher
+q:stop
+e:center
+r:speed higher
+f:speed lower
+y:speed 20
+c:speed 100
+p:exit

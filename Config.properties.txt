@@ -1,0 +1,12 @@
+#The control type you want to run, possible are: 'WASD/Normal/GUI/XBOX/File'
+c.controlType=Normal
+#The path for the log files if you want to run it from elsewhere. Standard is: 'Logs\\Log-1.txt'
+c.pathToRunLogFile=Logs\\Log-1.txt
+#All Server IPs/Hostnames separated with an ','
+s.hostnames=localhost
+#Port where the server(s) should listen to / you want to connect to:
+s.port=9000
+#IPv4 or IPv6, depends on which network your using (IPv6 max subnet is 110, so it doesn't slow down your entire PC)
+c.localIPVersion=IPv4
+#For the GUI Control, you can choose the screen you want to start with, this starts at 0
+screen.number=0

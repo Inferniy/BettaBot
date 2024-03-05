@@ -1,0 +1,13 @@
+a:speed lower
+b:speed 60
+y:speed higher
+x:speed 10
+rShoulder:stop
+lShoulder:center
+down:exit
+-lx:left higher
+lx:right higher
+lx0:center
+ly:forward
+-ly:backward
+ly0:stop
